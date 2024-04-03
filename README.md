@@ -22,4 +22,4 @@ To record a typical log for testing VIO (imu + tracking) for 1 minute
 ~~~voxl-logger --preset_odometry --time 60 --note "log for vio replay test 1"~~~
 
 
-[notion link for more details on the hardware setup]()https://www.notion.so/agrawala96/Modal-AI-Flight-1e54ca92fe014b9abe38a9c0fd772a30)
+[notion link for more details on the hardware setup](https://www.notion.so/agrawala96/Modal-AI-Flight-1e54ca92fe014b9abe38a9c0fd772a30)
