@@ -1,5 +1,5 @@
 ## To log one camera image:
-voxl-logger --cam tracking --samples 1
+> voxl-logger --cam tracking --samples 1
 
 ### To log 5000 imu samples:
 voxl-logger -i imu1 -s 5000 --note "primary imu test"
