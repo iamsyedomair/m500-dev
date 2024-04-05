@@ -1,4 +1,4 @@
-## To log one camera image:
+### To log one camera image:
 ```voxl-logger --cam tracking --samples 1```
 
 ### To log 5000 imu samples:
@@ -18,3 +18,7 @@
 
 
 [notion link for more details on the hardware setup](https://www.notion.so/agrawala96/Modal-AI-Flight-1e54ca92fe014b9abe38a9c0fd772a30)
+
+# TODO
+
+- add support for different devices other than imu
